@@ -1,2 +1,2 @@
 # Lyceum
-I don't know what to do.
+Hello! I am a new computer learner. I creat this repository to expore the Github.
